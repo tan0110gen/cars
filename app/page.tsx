@@ -1,0 +1,1 @@
+export default function Page(){return(<main className='p-8'><h1 className='text-3xl font-bold'>EasyCar</h1><p className='text-neutral-400'>Hello world — deploy OK.</p></main>)}
